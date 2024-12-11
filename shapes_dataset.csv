@@ -1,0 +1,11 @@
+shape,color,x,y,size
+circle,red,1,1,0.5
+square,blue,2,2,0.8
+triangle,green,3,1,0.6
+circle,yellow,4,3,0.7
+square,red,5,2,0.9
+triangle,blue,1,4,0.6
+circle,green,2,5,0.8
+square,yellow,3,3,0.7
+triangle,red,4,4,0.6
+circle,blue,5,5,0.9
