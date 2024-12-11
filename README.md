@@ -1,9 +1,9 @@
 # Gestalt Principles in Data Visual
 
 ## Table of Content
-- [Project Overview]
-- [Data Source]
-- [Getstalt Principle]
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Getstalt Principle](#getstalt-principle)
 
 ## Project Overview
 Gestalt Principles in Data Visualization helps create graphs, diagrams, or visualizations that are more intuitive and easy to understand. By leveraging the natural way the human brain organizes visual elements, Gestalt principles can improve the effectiveness of data communication.
